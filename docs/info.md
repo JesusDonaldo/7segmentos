@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This proyect can be imposible to posible
+This
 
 ## How to test
 
